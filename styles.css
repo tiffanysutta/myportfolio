@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;700&family=Raleway:wght@200&family=Tangerine:wght@700&display=swap');
+
+body {
+  font-family: 'Gabarito', Georgia, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  max-height: 300px;
+  
+}
+
+h1 {
+  color: #1ecbe1;
+}
+
+h2 {
+  color: #1E6AE1;
+}
+
+a {
+  color: #1EE196;
+  text-decoration: none;
+}
